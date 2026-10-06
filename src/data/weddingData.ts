@@ -40,27 +40,14 @@ export const eventsData: WeddingEvent[] = [
     id: "sukhmani-sahib",
     title: "Sukhmani Sahib Path",
     subtitle: "Divine Blessings",
-    date: "Tuesday, 1 December 2026",
+    date: "Monday, 30 November 2026",
     time: "10:00 AM onwards",
-    location: "",
+    location: "Residence of Mann Family",
     address: "",
     description: "Join us in seeking the blessings of the Almighty as we begin our wedding celebrations with the recitations of Sukhmani Sahib.",
     dressCode: "",
     icon: "Heart",
-    mapsUrl: ""
-  },
-  {
-    id: "mehndi",
-    title: "Mehndi Ceremony",
-    subtitle: "Colors & Joy",
-    date: "Tuesday, 1 December 2026",
-    time: "2:00 PM onwards",
-    location: "Residence of Rehal Family",
-    address: "",
-    description: "An afternoon of vibrant colors, intricate henna designs, and joyous celebrations.",
-    dressCode: "",
-    icon: "Sparkles",
-    mapsUrl: ""
+    mapsUrl: "https://maps.app.goo.gl/Va1Erog3tgynyVao7?g_st=iw"
   },
   {
     id: "haldi-jaggo",
@@ -68,12 +55,12 @@ export const eventsData: WeddingEvent[] = [
     subtitle: "Golden Glow & Night of Celebration",
     date: "Thursday, 3 December 2026",
     time: "6:00 PM onwards",
-    location: "Residence of Rehal Family",
+    location: "Residence of Mann Family",
     address: "",
     description: "The traditional ceremony of applying turmeric, symbolizing purity and blessings for the couple, followed by a night of traditional songs, dance, and endless celebration.",
     dressCode: "",
     icon: "Sparkles",
-    mapsUrl: ""
+    mapsUrl: "https://maps.app.goo.gl/Va1Erog3tgynyVao7?g_st=iw"
   },
   {
     id: "anand-karaj",
@@ -81,7 +68,7 @@ export const eventsData: WeddingEvent[] = [
     subtitle: "Sacred Union",
     date: "Friday, 4 December 2026",
     time: "7:00 AM",
-    location: "Gurudwara, Bhadal Thuha",
+    location: "Bhaddal Thuha Gurudwara",
     address: "",
     description: "The blissful union of two souls in the presence of Sri Guru Granth Sahib Ji.",
     dressCode: "",

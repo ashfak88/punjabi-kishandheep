@@ -26,7 +26,7 @@ export const WishesSection: React.FC = () => {
 
     // 1. Send to WhatsApp
     const whatsappMessage = encodeURIComponent(`Wedding Wish from ${wishName} (${wishRelation}):\n\n${wishMessage}`);
-    window.open(`https://wa.me/917009480492?text=${whatsappMessage}`, "_blank");
+    window.open(`https://wa.me/61436345405?text=${whatsappMessage}`, "_blank");
 
     setName("");
     setMessage("");
