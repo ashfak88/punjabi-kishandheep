@@ -53,7 +53,7 @@ export const eventsData: WeddingEvent[] = [
     id: "haldi-jaggo",
     title: "Haldi & Jaggo Ceremony",
     subtitle: "Golden Glow & Night of Celebration",
-    date: "Thursday, 3 December 2026",
+    date: "Wednesday, 2 December 2026",
     time: "6:00 PM onwards",
     location: "Residence of Mann Family",
     address: "",

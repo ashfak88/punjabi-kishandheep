@@ -119,7 +119,7 @@ export const LoadingScreen: React.FC<LoadingScreenProps> = ({ onEnter }) => {
               {/* Couple Script Names */}
               <div className="flex flex-col items-center my-3 gap-1">
                 <span className="text-5xl font-calligraphy text-[#D9381E] leading-tight drop-shadow-md">
-                  {coupleData.brideShort}
+                  {coupleData.groomShort}
                 </span>
                 <motion.div
                   animate={{ scale: [1, 1.25, 1] }}
@@ -129,7 +129,7 @@ export const LoadingScreen: React.FC<LoadingScreenProps> = ({ onEnter }) => {
                   <Heart className="w-5 h-5 fill-[#F2A900] border-none text-[transparent]" />
                 </motion.div>
                 <span className="text-5xl font-calligraphy text-[#D9381E] leading-tight drop-shadow-md">
-                  {coupleData.groomShort}
+                  {coupleData.brideShort}
                 </span>
               </div>
 
